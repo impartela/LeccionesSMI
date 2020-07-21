@@ -1,10 +1,10 @@
 import React, {Component} from "react";
 import { withRouter } from "react-router";
 
-import Pregunta from './Pregunta'
-import Nota from './Nota'
+import Pregunta from '../Pregunta/Pregunta'
+import Nota from '../Nota/Nota'
 
-import { posts } from "../lecciones.json";
+import { posts } from "../../lecciones.json";
 
 class Leccion extends Component {
     

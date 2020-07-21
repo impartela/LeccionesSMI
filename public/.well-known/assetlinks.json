@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.ncuaob",
+      "sha256_cert_fingerprints": ["AD:16:5A:C4:33:2A:0F:05:25:D3:58:2A:D9:C3:56:BA:24:8C:CD:39:AA:73:FC:CC:56:68:CB:6B:C3:D1:88:A3AD:16:5A:C4:33:2A:0F:05:25:D3:58:2A:D9:C3:56:BA:24:8C:CD:39:AA:73:FC:CC:56:68:CB:6B:C3:D1:88:A3"]
+    }
+  }
+]

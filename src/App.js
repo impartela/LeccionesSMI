@@ -6,11 +6,11 @@ import {
 } from 'react-router-dom'
 
 import NavBar from './components/NavBar/NavBar'
-import Leccion from './components/Leccion'
+import Leccion from './components/Leccion/Leccion'
 import Home from './components/Home'
 import Index from './components/Index/Index'
 
-import './App.css';
+import styles from'./App.module.css';
 
 class App extends Component {
   render() {
@@ -20,15 +20,17 @@ class App extends Component {
             <NavBar />
             
             <Switch>
-              <Route exact path="/leccion/:numero">
-                <Leccion />
-              </Route>
-              <Route exact path="/index">
-                <Index />
-              </Route>
               <Route exact path="/">
                 <Home />
               </Route>
+
+              <Route exact path="/index">
+                <Index />
+              </Route>
+
+              <Route exact path="/leccion/:numero">
+                <Leccion />
+              </Route>           
             </Switch>
 
           </div>
