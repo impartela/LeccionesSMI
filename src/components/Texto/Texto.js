@@ -1,12 +1,12 @@
 import React from 'react'
 
-function Texto(props) {    
+const Texto = ({ texto, }) => {    
     return (
       <div>
         {
-          props.texto.map((value, index) => {
+          texto.map(({ cita, contenido}, index) => {
             return <p key={index}>
-              <strong>{value.cita}</strong> {value.contenido}
+              <strong>{ cita }</strong> { contenido }
             </p>
           })
         }

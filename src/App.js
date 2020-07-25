@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {
   BrowserRouter as Router,
   Route,
@@ -9,34 +9,30 @@ import NavBar from './components/NavBar/NavBar'
 import Leccion from './components/Leccion/Leccion'
 import Home from './components/Home'
 import Index from './components/Index/Index'
+import Informe from './components/Informe/Informe';
 
-import styles from'./App.module.css';
+import './App.module.css';
 
-class App extends Component {
-  render() {
-    return (
-        <Router>
-          <div>
-            <NavBar />
-            
-            <Switch>
-              <Route exact path="/">
-                <Home />
-              </Route>
+const App = () => {
+  return (
+    <Router>
+      <div>
+        <NavBar />
+        
+        <Switch>
+          <Route exact path="/" component={ Home } />
 
-              <Route exact path="/index">
-                <Index />
-              </Route>
+          <Route exact path="/index" component={ Index } />
 
-              <Route exact path="/leccion/:numero">
-                <Leccion />
-              </Route>           
-            </Switch>
+          <Route exact path="/leccion/:numero" component={ Leccion } />
 
-          </div>
-        </Router>
-    )
-  }
+          <Route exact path="/informe/:id" component={ Informe } />         
+        </Switch>
+
+      </div>
+    </Router>
+  )
 }
 
-export default App;
+export default App
+

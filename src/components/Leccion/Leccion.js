@@ -1,32 +1,29 @@
-import React, {Component} from "react";
+import React from "react";
 import { withRouter } from "react-router";
 
 import Pregunta from '../Pregunta/Pregunta'
-import Nota from '../Nota/Nota'
+import Parrafo from '../Parrafo/Parrafo'
 
 import { posts } from "../../lecciones.json";
 
-class Leccion extends Component {
-    
-    constructor(props) {
-      super(props)
-      
-      this.numero = this.props.match.params.numero > 0 ? this.props.match.params.numero : 0
-      this.state = { post: posts[this.numero - 1] }
-    }
-    
-    render() {
-      return (
-        <div>
-          <h2>{this.state.post.titulo}</h2>
-          <h4>{this.state.post.subtitulo}</h4>
-          <p><em>{this.state.post.fecha}</em></p>
-          <Nota nota={this.state.post.introduccion} />
-          <Pregunta preguntas={this.state.post.preguntas}/>
-        </div>
-      )
-    }
-    
+const Leccion = ({ match }) => {
+
+  const { params } = match;
+
+  const numero = params.numero > 0 ? params.numero : 0
+  const state = { post: posts[numero - 1] }
+  
+  const { titulo, subtitulo, fecha, introduccion, preguntas } = state.post;
+
+  return (
+    <>
+      <h2>{ titulo }</h2>
+      <h4>{ subtitulo }</h4>
+      <p><em>{ fecha }</em></p>
+      <Parrafo nota={ introduccion } />
+      <Pregunta preguntas={ preguntas }/>
+    </>
+  )
 }
 
 export default withRouter(Leccion)

@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import {
   Link,
   withRouter
@@ -8,24 +8,57 @@ import { posts } from "../../lecciones.json";
 
 import styles from './Index.module.css'
 
-class Home extends Component {
-  render() {
-      return (
-        <ol>
-          {posts.map((item, index) => {
-            return (
-              <li className={styles.leccion} key={index}>
-                <Link to={`leccion/${index + 1}`}>
-                  <strong>Leccion {index + 1}: </strong>
-                  {item.titulo}
-                  {"\n"}
-                </Link>
-              </li>
-            )
-          })}
-        </ol>
-      )
-  }
+const Index = () => {
+  return (
+    <ol>
+      {posts.map((item, index) => {
+        
+        if ( item.type === 'leccion' ) {
+          
+          return (
+            <li className={ styles.leccion } key={ index }>
+              
+              <Link to={`leccion/${index + 1}`}>
+                <strong>Leccion {index + 1}: </strong>
+                {item.titulo}
+                <br />
+              </Link>
+          
+            </li>
+          )
+
+        } else if ( item.type === 'informe' ) {
+
+          return (
+            <li className={ styles.leccion } key={ index }>
+              
+              <Link to={`informe/${ item.id }`}>
+                <strong>Informe: </strong>
+                {item.titulo}
+                <br />
+              </Link>
+          
+            </li>
+          )
+        }
+         return <></>
+
+      })}
+    </ol>
+  )
 }
 
-export default withRouter(Home)
+export default withRouter(Index)
+
+// return (
+//   <li className={ styles.leccion } key={ index }>
+    
+//     <Link to={`leccion/${index + 1}`}>
+//       <strong>Leccion {index + 1}: </strong>
+//       {item.titulo}
+//       <br />
+//     </Link>
+
+//   </li>
+// )
+

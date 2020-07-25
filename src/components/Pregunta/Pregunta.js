@@ -1,13 +1,13 @@
 import React from 'react'
 
 import Texto from '../Texto/Texto'
-import Nota from '../Nota/Nota'
+import Nota from '../Parrafo/Parrafo'
 
-function Pregunta(props) {
+const Pregunta = ({ preguntas }) => {
   return (
       <div>
         {
-          props.preguntas.map((value, index) => {
+          preguntas.map((value, index) => {
             return (
               <div key={index}>
                 { value.subtitulo != null ? <h3>{value.subtitulo}</h3> : null }

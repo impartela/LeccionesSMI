@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-    "slug": "leccion-1",
+    "type": "leccion",
     "numero": "1",
     "fecha": "Sábado, 4 de Julio 2020",
     "titulo": "Sara y los hijos de la libre",
@@ -55,7 +55,28 @@
     ]
     },
     {
-      "slug": "leccion-2",
+      "type": "informe",
+      "id": "Jamaica",
+      "titulo": "Informe Misionero de Jamaica",
+      "fecha_lectura": "Para leer el sábado, 29 de agosto de 2020.",
+      "entrega": "La Ofrenda Especial de Escuela Sabática será recogida el sábado, 5 de septiembre de 2020",
+      "contenido": [
+        "“Cantad al Señor una nueva canción y su alabanza desde los confines de la tierra, vosotros que bajáis al mar y todo lo que hay en él: las islas y sus habitantes. Que el desierto y sus ciudades alcen su voz, los pueblos que habitan Cedar: que canten los habitantes de la roca, que griten desde lo alto de la montaña. Que den gloria al Señor y declaren su alabanza en las islas” Isaías 42:10-12",
+        "Jamaica es un país bien conocido por su clima tropical. Millones de visitantes acuden a la isla cada año por su sol, playas de arena blanca y numerosos entretenimientos. Esta hermosa isla de madera y agua, se encuentra en las Antillas Mayores, tiene aproximadamente 145 millas (234 kilómetros) de largo y hasta 50 millas (80 kilómetros) de ancho y está ubicada en el Mar Caribe. Se encuentra a 90 millas (145 km) al sur de Cuba y 119 millas (191 km) al oeste de la isla de La Española.",
+        "La población de Jamaica es de 2.970.340 habitantes. Según el censo de 2011, este compuesto por población negra 92.1%, mestizos 6.1%, indios del este 0.8%, otros 0.4%, no especificado 0.7%. El idioma principal del país es el inglés y el inglés patois. Hay varios grupos religiosos en Jamaica: Cristianismo Protestante 64.8%, Católico Romano 2.2%, Testigos de Jehová 1.9%, Rastafari 1.1%, otros 6.5%, ninguno 21.3%, no especificado 2.3%. También tenemos más de 100 denominaciones y el único país del mundo con más iglesias por milla cuadrada. Sin embargo, la organización líder actualmente es la Iglesia Adventista del Séptimo Día Nominal.",
+        "El Mensaje del Tercer Ángel ingresó al país en la década de 1890. Posteriormente, la Sociedad Misionera Internacional comenzó su trabajo en Jamaica en la década de 1980 con la ayuda del campo canadiense, especialmente el hermano Timo Martin. Jamaica tiene catorce distritos y nuestra iglesia está representada en cuatro de estos distritos con una membresía de 53 personas. En la sección occidental de la isla, particularmente en la ciudad de Montego Bay, existe una gran necesidad de un edificio para ser un testigo de la verdad.",
+        "“Cuando se despierta un interés en cualquier pueblo o ciudad, ese interés debe ser seguido. El lugar debe ser trabajado a fondo hasta que una humilde casa de adoración se erige como una señal, un memorial del sábado de Dios, una luz en medio de la oscuridad moral. Estos monumentos conmemorativos deben colocarse en muchos lugares como testigos de la verdad. Dios en su misericordia ha provisto que los mensajeros del evangelio irán a todos los países, lenguas y pueblos hasta que se establezca el estándar de verdad en todas las partes del mundo habitado. Dondequiera que se levante una compañía de creyentes, se debe construir una casa de adoración. No dejen que los obreros abandonen el lugar sin lograr esto.",
+        "“En muchos lugares donde se ha predicado el mensaje y las almas lo han aceptado, se encuentran en circunstancias limitadas y pueden hacer muy poco para asegurar las ventajas que darían carácter al trabajo. A menudo esto hace que sea difícil extender la obra. A medida que las personas se interesan por la verdad, los ministros de otras iglesias les dicen esto, y los miembros de la iglesia hacen eco de estas palabras: “Estas personas no tienen iglesia y ustedes no tienen un lugar de culto. Eres un grupo pequeño, pobre e ignorante. En poco tiempo los ministros se irán, y luego el interés se extinguirá. Entonces renunciarás a todas estas nuevas ideas que has recibido” (Testimonios para la Iglesia, tomo 6, pág. 100).",
+        "La iglesia en Montego Bay ha estado llevando a cabo servicios de adoración en un centro comunitario durante muchos años. Actualmente, no podemos mantener ninguna reunión durante la noche ya que no hay electricidad en las instalaciones y solo podemos reunirnos los sábados. Como iglesia estamos obstaculizados porque no podemos realizar otras actividades como reuniones de oración, servicios misioneros, seminarios y servicios para jóvenes. Como resultado, muchos visitantes y jóvenes han decidido adorar en otros lugares.",
+        "Ha sido muy difícil para nosotros adquirir un lugar, ya que el costo de la mayoría de las propiedades es de más de 6 millones de dólares y aquellos con edificios son aún más caros por un monto de 15 millones de dólares o más.",
+        "Queridos hermanos y hermanas en todo el mundo, les pedimos su ayuda en el trabajo en Jamaica. Necesitamos su generosidad el próximo sábado para apoyar el trabajo y evangelizar a esta nación isleña para el Señor, mientras recordamos su promesa: “Es más bendecido dar que recibir” Hechos 20:35.",
+        "Agradecemos su cooperación y nuestro amoroso Dios recompense cien veces su generoso esfuerzo."
+      ],
+      "autor": "George Gowie",
+      "puesto": "Presidente del Campo Jamaicano"
+    },
+    {
+      "type": "leccion",
       "fecha": "Sábado, 11 de Julio 2020",
       "titulo": "La Mujer de Lot y La Salida de las Ciudades Grandes",
       "subtitulo": "“Acordaos de la mujer de Lot” Lucas 17:32.",
@@ -106,6 +127,35 @@
           "notas": ["“Tanto Abraham como Sara desconfiaron del poder de Dios, y este error fue la causa del matrimonio con Agar. Dios había llamado a Abraham para que fuera el padre de los fieles, y su vida había de servir como ejemplo de fe para las generaciones futuras. Pero su fe no había sido perfecta. Había manifestado desconfianza en Dios al ocultar el hecho de que Sara era su esposa, y también al casarse con Agar” (Patriarcas y Profetas, pág. 127)."]
         }
       ]
+    },
+    {
+      "type": "informe",
+      "id": "Ruanda",
+      "titulo": "Informe Misionero de Ruanda",
+      "fecha-lectura": "Para leer el sábado, 31 de octubre de 2020.",
+      "entrega": "La Ofrenda Especial de Escuela Sabática será recogida el sábado, 7 de noviembre de 2020",
+      "contenido": [
+        "“Los hijos de Israel trajeron una ofrenda voluntaria al Señor, cada hombre y mujer, cuyo corazón los hizo dispuestos a traer para todo tipo de trabajo, que el Señor había mandado hacer de la mano de Moisés” Éxodo 35:29.",
+        "Queridos hermanos y hermanas de todo el mundo:",
+        "Reciban saludos cordiales en el nombre de nuestro Señor Jesucristo, quien aceptó morir por nosotros para ser herederos de la vida eterna.",
+        "La República de Ruanda se llama el país de mil colinas, ubicado en África central, pero siendo parte de los países de la comunidad de África Oriental. Este país limita con la República de Burundi en el sur, la República de Uganda en el norte, los Estados Unidos de Tanzania en el este y la República Democrática del Congo en el oeste. El país cubre 26, 338 kilómetros cuadrados con aproximadamente 12 millones de habitantes. El país está creciendo rápidamente en población.",
+        "El país tiene las mejores áreas de turismo atractivo como el Parque Nacional de los Volcanes en la parte norte donde se encuentran los gorilas de montaña, el Parque Nacional Akagera, el Parque Nacional del Bosque Nyungwe, etc. En términos de economía, muchos ciudadanos de Ruanda son agricultores con tierras muy pequeñas, donde tanto la agricultura tradicional como la moderna son los sistemas que se practican. Esta nación es un país sin litoral, por lo que la mayoría de los productos procedentes del extranjero son caros.",
+        "Desde el punto de vista de la educación, se está disminuyendo la cantidad de analfabetos debido a la introducción de la política de educación primaria y secundaria gratuita en las escuelas gubernamentales, además de la facilitación de préstamos otorgados a estudiantes que son elegibles para ingresar a la Universidad de Ruanda.",
+        "Ruanda, tiene cuatro idiomas oficiales como: kinyarwanda, inglés, francés y swahili, pero el kinyarwanda es la lengua materna de los ruandeses.",
+        "Según Wikipedia, la Enciclopedia Libre, el cristianismo es la religión más grande en Ruanda. El censo nacional más reciente de 2012 indica que: el 43.7% de la población de Ruanda es católica romana, el 37.7% es protestante, el 11.8% es adventista, el 2.0% es musulmán (principalmente sunita), el 2.5% afirma no tener afiliación religiosa y 0.7 % es Testigo de Jehová. También hay una pequeña población de bahá’ís, así como algunos que practican las creencias indígenas tradicionales.",
+        "La Sociedad Misionera Internacional de la Iglesia Adventista del Séptimo Día, Movimiento de Reforma entró en Ruanda desde principios de 1993 cuando misioneros de Tanzania como el pastor Parmenas Shirima, el pastor Bright Dickison Fue, el pastor Mwanjabeke, etc. hicieron una visita misionera en Ruanda y continuaron ayudando para el progreso del trabajo, aunque, a través de circunstancias desalentadoras. Pero este trabajo fue obstaculizado por el genocidio de 1994.",
+        "A finales de diciembre de 1996, el número de creyentes aumentó significativamente después de que más de 200 almas ruandeses, que recibieron el mensaje de reforma en los campos de refugiados en Tanzania, regresaran y se unieran a los pocos creyentes que estaban especialmente en la ciudad de Kigali y aumentaron las actividades misioneras, junto con el apoyo misionero de los pastores mencionados anteriormente y la Asociación General, que dio origen al Campo de Ruanda.",
+        "Ahora contamos con 40 iglesias locales, incluidas 7 sucursales. Nuestra membresía es de 760 con muchas otras almas interesadas. El Campo de Ruanda está dividido en 3 zonas misioneras: zona noroeste, zona centro-sur y zona este, con un número de seis pastores y un anciano ordenado.",
+        "En el momento del registro de la iglesia de acuerdo con las leyes del país, obtuvimos autorización para predicar el 23 de enero de 1998, el Certificado de Registro Temporal se obtuvo el 29 de octubre de 2002 y el 9 de septiembre de 2008, nuestro Campo obtuvo el Título Completo de Registro como Iglesia organizada en Ruanda. Pero hoy en día estamos en proceso de actualizar el registro de nuestra iglesia de acuerdo con la nueva ley con respecto a las organizaciones basadas en la fe en Ruanda, aunque, al no tener ninguna presentación de desarrollo urbanístico, aumenta la rigidez a nuestra solicitud.",
+        "Con el fin de mejorar la obra de Dios en las áreas de este país donde el mensaje de reforma aún no ha llegado, tenemos un plan para que el Campo de Ruanda se convierta en una Unión en el futuro a pesar de que existen obstáculos.",
+        "Nos encontramos en un gran problema financiero, porque además de los ingresos insuficientes de nuestros miembros, se ha estado invirtiendo para mejorar los edificios de nuestra iglesia que se han cerrado para cumplir con algunos estándares de modernización recientemente establecidos por el estado. En algunos edificios de la iglesia lo hemos alcanzado para permitir que se congreguen nuevamente, pero temporalmente porque aún no hemos completado la modernización, ya que otros edificios de la iglesia aún no han alcanzado ese nivel.",
+        "Tenemos, también, otros proyectos que también serán beneficiosos para la causa del Señor, como el Proyecto Escuela Murambi, que ha interesado a las autoridades que lo aceptaron y autorizaron. En MurambI tenemos una gran parcela en la ciudad de Kigali. Desafortunadamente, debido a limitaciones financieras, nuestro proyecto fue pospuesto, pero no totalmente abandonado. Habíamos planeado construir una escuela primaria y secundaria en esa parcela, pero solo logramos construir la cerca.",
+        "Además, tenemos otros proyectos para iniciar guarderías ya que la educación es la mayor preocupación del gobierno de Ruanda; por ejemplo, hemos comenzado a educar a los niños pequeños en la iglesia local Nyamata, una ciudad que está más cerca de la ciudad de Kigali y el trabajo está creciendo rápidamente, donde comenzamos con 20 niños, pero ahora estamos superando los 180, donde los edificios escolares también son es necesario, porque actualmente usamos el edificio de la iglesia para ayudar a los niños más pequeños. También en la parte oriental, tenemos otra gran parcela desocupada, en el área de Kigonge, donde proponemos tener una escuela o sanatorio.",
+        "El Espíritu de Profecía nos dice: “Hay escuelas que se establecerán en países extranjeros y en nuestro propio país. Debemos aprender de Dios cómo manejar estas escuelas. … Nuestras instituciones deben ser consideradas como instrumentos de Dios para el avance de su obra en la tierra. ... Necesitamos estar como una compañía unida que se verá cara a cara. Entonces veremos la salvación de Dios revelada a la derecha y a la izquierda. Si trabajamos en armonía, le damos a Dios la oportunidad de trabajar para nosotros” (Fundamentals of Christian Education, págs. 531, 532). La responsabilidad ahora está a nuestro alcance para que también podamos ayudar a la causa de Dios en Ruanda.",
+        "Pedimos amablemente a nuestros hermanos de todo el mundo que oren por nosotros y unan nuestros esfuerzos para apoyar financieramente la promoción del mensaje de reforma en Ruanda a través de estos proyectos. Que el Señor Jesucristo influya y beneficie a cada miembro y amigo del mensaje de reforma para reflexionar profundamente sobre estos planes. ¡Amén!"
+      ],
+      "autor": "Ngoboka Steven",
+      "puesto": "Presidente del Campo de Ruanda"
     }
   ]
 }
