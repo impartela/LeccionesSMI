@@ -11,7 +11,7 @@ const Pregunta = ({ preguntas }) => {
             return (
               <div key={index}>
                 { value.subtitulo != null ? <h3>{value.subtitulo}</h3> : null }
-                <h4>{ value.pregunta }</h4>
+                <h4 className = "text-base font-bold mb-2 mt-4 text-justify">{ value.pregunta }</h4>
                 <Texto texto={value.textos}/>
                 <Nota nota={value.notas}/>
               </div>

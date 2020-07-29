@@ -17,11 +17,13 @@ const Leccion = ({ match }) => {
 
   return (
     <>
-      <h2>{ titulo }</h2>
-      <h4>{ subtitulo }</h4>
-      <p><em>{ fecha }</em></p>
+      <div className = "mx-4 my-4">
+      <h2 className = "text-2xl text-center">{ titulo }</h2>
+      <h4 className = "text-center mb-4" >{ subtitulo }</h4>
+      <p className = "mb-4"><em>{ fecha }</em></p>
       <Parrafo nota={ introduccion } />
       <Pregunta preguntas={ preguntas }/>
+      </div>
     </>
   )
 }
