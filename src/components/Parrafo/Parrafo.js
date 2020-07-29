@@ -3,7 +3,7 @@ import React from 'react'
 const Nota = ({ nota }) => {
     return (
       nota.map((item, index) => {
-        return <p key={index}>{ item }</p>
+        return <p className = "mb-2 text-justify" key={index}>{ item }</p>
       })
     )
 }

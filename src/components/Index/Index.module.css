@@ -1,16 +1,16 @@
-h1, figure, p {
-    text-align: center;
+/* h1, figure, p {
+    text-align: justify;
     margin: 0 auto;
-}
+} */
 
-.leccion {
+/* .leccion {
     display: inline;
     float: none;
     padding: 0.25em;
     margin: 0.1em;
-}
+} */
 
-h1 {
+/* h1 {
     font-size: 2.8em;
     text-transform: uppercase;
     font-weight: 700;
@@ -19,7 +19,7 @@ h1 {
 
 figure {
     margin: 0 0 1em 0;
-}
+} */
 
 /* img {
     width: 100%;
@@ -27,9 +27,9 @@ figure {
     margin: 0 0 1em 0;
 } */
 
-p {
+/* p {
     margin: 1em auto;
-}
+} */
 
 @media (min-width: 480px) {
     h1 {
