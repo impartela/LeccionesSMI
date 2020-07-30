@@ -2,6 +2,8 @@ import React, { useContext } from 'react';
 import { useParams } from 'react-router-dom'
 
 import Parrafo from '../Parrafo/Parrafo';
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 import AppContext from "../Context";
 
@@ -16,15 +18,19 @@ const Informe = () => {
 
   return (
     <>
-      <h2>{ titulo.toUpperCase() }</h2>
-      <h4>{ fecha && 'Para leer el sábado,'} {`${ fecha }`}</h4>
-      <h4>{ entrega }</h4>
+      <Header />
+      <div className = "mx-5 my-4">
+      <h2 className = "text-2xl text-center text-green-700">{ titulo.toUpperCase() }</h2>
+      <h4 className = " text-center mb-4 text-teal-400">{ fecha && 'Para leer el sábado,'} {`${ fecha }`}</h4>
+      <h4 className = "text-center mb-4 text-blue-300">{ entrega }</h4>
       <Parrafo nota={ contenido } />
 
       <blockquote className="">
-        <p className="">{ autor }</p>
-        <footer className="">{ puesto }</footer>
+        <p className="text-center text-teal-400">{ autor }</p>
+        <footer className="text-center text-blue-300">{ puesto }</footer>
       </blockquote>
+      </div>
+      <Footer />
     </>
   )
 }
