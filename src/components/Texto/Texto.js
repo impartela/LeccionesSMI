@@ -5,7 +5,7 @@ const Texto = ({ texto, }) => {
       <div>
         {
           texto.map(({ cita, contenido}, index) => {
-            return <p key={index}>
+            return <p key={ cita }>
               <strong>{ cita }</strong> { contenido }
             </p>
           })

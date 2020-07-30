@@ -11,16 +11,18 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.4.0",
     "styled-components": "^5.1.1",
     "tailwindcss": "^1.5.2"
   },
   "scripts": {
-    "start": "npm run watch:css && react-scripts start",
-    "build": "npm run build:css && react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:css": "postcss src/css/tailwind.css -o src/css/main.css", 
+    "_start": "npm run watch:css && react-scripts start",
+    "_build": "npm run build:css && react-scripts build",
+    "build:css": "postcss src/css/tailwind.css -o src/css/main.css",
     "watch:css": "postcss src/css/tailwind.css -o src/css/main.css",
     "start-sw": "http-server ./build"
   },
@@ -40,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "postcss": "^7.0.32"
   }
 }

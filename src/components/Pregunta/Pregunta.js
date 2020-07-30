@@ -7,13 +7,13 @@ const Pregunta = ({ preguntas }) => {
   return (
       <div>
         {
-          preguntas.map((value, index) => {
+          preguntas.map(({ subtitulo, pregunta, textos, notas }, index) => {
             return (
               <div key={index}>
-                { value.subtitulo != null ? <h3>{value.subtitulo}</h3> : null }
-                <h4 className = "text-base font-bold mb-2 mt-4 text-justify">{ value.pregunta }</h4>
-                <Texto texto={value.textos}/>
-                <Nota nota={value.notas}/>
+                { String( subtitulo ) !== 'null' ? <h3>{subtitulo}</h3> : null }
+                <h4 className = "text-base font-bold mb-2 mt-4 text-justify">{`${ index + 1 }.- ${ pregunta } ` }</h4>
+                <Texto texto={ textos}/>
+                <Nota nota={ notas }/>
               </div>
             )
           })

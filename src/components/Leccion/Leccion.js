@@ -1,20 +1,23 @@
-import React from "react";
+import React, { useContext } from "react";
 import { withRouter } from "react-router";
+import { useParams } from "react-router-dom";
 
 import Pregunta from '../Pregunta/Pregunta'
 import Parrafo from '../Parrafo/Parrafo'
 
-import { posts } from "../../lecciones.json";
+import AppContext from "../Context";
 
-const Leccion = ({ match }) => {
-
-  const { params } = match;
-
-  const numero = params.numero > 0 ? params.numero : 0
-  const state = { post: posts[numero - 1] }
+const Leccion = () => {
   
-  const { titulo, subtitulo, fecha, introduccion, preguntas } = state.post;
+  const data = useContext( AppContext )
 
+  let { numero } = useParams();
+
+  numero = numero > 0 ? numero : 0
+  const target = data.filter( e => e.numero === numero )[0];
+
+  const { titulo, subtitulo, fecha, introduccion, preguntas, adicional } = target;
+  
   return (
     <>
       <div className = "mx-4 my-4">
@@ -23,6 +26,8 @@ const Leccion = ({ match }) => {
       <p className = "mb-4"><em>{ fecha }</em></p>
       <Parrafo nota={ introduccion } />
       <Pregunta preguntas={ preguntas }/>
+      <h4 className = "text-center mb-4" >{ adicional.contenido.length > 0 && 'Estudio adicional'} { adicional.titulo && `- ${ adicional.titulo }`}</h4>
+      { adicional.contenido.length > 0 && <Parrafo nota={ adicional.contenido}/>}
       </div>
     </>
   )
