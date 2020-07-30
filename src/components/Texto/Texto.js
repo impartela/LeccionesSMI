@@ -5,8 +5,8 @@ const Texto = ({ texto, }) => {
       <div>
         {
           texto.map(({ cita, contenido}, index) => {
-            return <p key={ cita }>
-              <strong>{ cita }</strong> { contenido }
+            return <p className = "text-justify m-3" key={ cita }>
+              <strong className = "text-teal-400">{ cita }</strong> { contenido }
             </p>
           })
         }
