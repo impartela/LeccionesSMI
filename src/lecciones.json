@@ -22,7 +22,7 @@
     {
       "type": "leccion",
       "numero": "1",
-      "fecha": "4 de Julio 2020",
+      "fecha": "Sábado, 4 de Julio 2020",
       "titulo": "Sara y los Hijos de la Libre",
       "subtitulo": "Sara significa “Princesa”",
       "introduccion": [
@@ -164,7 +164,7 @@
     {
       "type": "leccion",
       "numero": "2",
-      "fecha": "11 de Julio 2020",
+      "fecha": "Sábado, 11 de Julio 2020",
       "titulo": "La Mujer de Lot y La Salida de las Ciudades Grandes",
       "subtitulo": "“Acordaos de la mujer de Lot” Lucas 17:32.",
       "introduccion": [
@@ -318,7 +318,7 @@
     {
       "type": "leccion",
       "numero": "3",
-      "fecha": "18 de Julio 2020",
+      "fecha": "Sábado, 18 de Julio 2020",
       "titulo": "Rebeca y La Elección",
       "subtitulo": "Rebeca significa “Amable”",
       "introduccion": [
@@ -465,7 +465,7 @@
     {
       "type": "leccion",
       "numero": "4",
-      "fecha": "25 de Julio 2020",
+      "fecha": "Sábado, 25 de Julio 2020",
       "titulo": "Raquel y Los Mártires",
       "subtitulo": "Raquel significa “Cordero”",
       "introduccion": [
@@ -615,7 +615,7 @@
     {
       "type": "leccion",
       "numero": "5",
-      "fecha": "1 de Agosto 2020",
+      "fecha": "Sábado, 1 de Agosto 2020",
       "titulo": "Lea y los Cansados",
       "subtitulo": "Lea significa “Cansada”",
       "introduccion": [
@@ -775,7 +775,7 @@
     {
       "type": "leccion",
       "numero": "6",
-      "fecha": "8 de Agosto 2020",
+      "fecha": "Sábado, 8 de Agosto 2020",
       "titulo": "Dina y la Fornicación de los últimos Días",
       "subtitulo": "Dina significa “Juzgada” o “Juicio”",
       "introduccion": [
@@ -928,7 +928,7 @@
     {
       "type": "leccion",
       "numero": "7",
-      "fecha": "15 de Agosto 2020",
+      "fecha": "Sábado, 15 de Agosto 2020",
       "titulo": "Sifra y Fúa, Las Parteras y el Decreto de Muerte",
       "subtitulo": "Sifra significa “Adornar” - Fúa significa “Brillar”",
       "introduccion": [
@@ -1091,7 +1091,7 @@
     {
       "type": "leccion",
       "numero": "8",
-      "fecha": " 22 de Agosto 2020",
+      "fecha": "Sábado, 22 de Agosto 2020",
       "titulo": "María, Miriam y el Canto de los Redimidos",
       "subtitulo": "María o Miriam significa “Fuerte, Robusta y Rebelde”",
       "introduccion": [
@@ -1243,7 +1243,7 @@
     {
       "type": "leccion",
       "numero": "9",
-      "fecha": "29 de Agosto 2020",
+      "fecha": "Sábado, 29 de Agosto 2020",
       "titulo": "Séfora y el Pacto de Sangre",
       "subtitulo": "Séfora significa “Pájaro Pequeño”",
       "introduccion": [
@@ -1392,7 +1392,7 @@
       "type": "informe",
       "id": "Jamaica",
       "titulo": "Informe Misionero de Jamaica",
-      "fecha": "29 de agosto de 2020",
+      "fecha": "Sábado, 29 de agosto de 2020.",
       "entrega": "La Ofrenda Especial de Escuela Sabática será recogida el sábado, 5 de septiembre de 2020",
       "contenido": [
         "“Cantad al Señor una nueva canción y su alabanza desde los confines de la tierra, vosotros que bajáis al mar y todo lo que hay en él: las islas y sus habitantes. Que el desierto y sus ciudades alcen su voz, los pueblos que habitan Cedar: que canten los habitantes de la roca, que griten desde lo alto de la montaña. Que den gloria al Señor y declaren su alabanza en las islas” Isaías 42:10-12",
@@ -1412,7 +1412,7 @@
     {
       "type": "leccion",
       "numero": "10",
-      "fecha": "5 de Septiembre 2020",
+      "fecha": "Sábado, 5 de Septiembre 2020",
       "titulo": "Las Hijas de Zelofehad y La Herencia Eterna",
       "subtitulo": "La raíz de Zelofehad significa “Unido”",
       "introduccion": [
@@ -1559,7 +1559,7 @@
     {
       "type": "leccion",
       "numero": "11",
-      "fecha": "12 de Septiembre 2020",
+      "fecha": "Sábado, 12 de Septiembre 2020",
       "titulo": "Rahab y La Caída de Jericó y Babilonia",
       "subtitulo": "Rahab significa “Espaciosa, extensa y vanidosa”",
       "introduccion": [
@@ -1714,7 +1714,7 @@
     {
       "type": "leccion",
       "numero": "12",
-      "fecha": "19 de Septiembre 2020",
+      "fecha": "Sábado, 19 de Septiembre 2020",
       "titulo": "Débora y el Armagedón",
       "subtitulo": "Debora significa “Abeja” u “Ordenada",
       "introduccion": [
@@ -1867,7 +1867,7 @@
     {
       "type": "leccion",
       "numero": "13",
-      "fecha": " 26 de Septiembre 2020",
+      "fecha": "Sábado, 26 de Septiembre 2020",
       "titulo": "La Mujer Sabia y La Muerte del Viejo Hombre",
       "subtitulo": "",
       "introduccion": [
@@ -2018,35 +2018,6 @@
         ]
       }
     },  
-    {
-      "type": "informe",
-      "id": "Ruanda",
-      "titulo": "Informe Misionero de Ruanda",
-      "fecha": "31 de octubre de 2020",
-      "entrega": "La Ofrenda Especial de Escuela Sabática será recogida el sábado, 7 de noviembre de 2020",
-      "contenido": [
-        "“Los hijos de Israel trajeron una ofrenda voluntaria al Señor, cada hombre y mujer, cuyo corazón los hizo dispuestos a traer para todo tipo de trabajo, que el Señor había mandado hacer de la mano de Moisés” Éxodo 35:29.",
-        "Queridos hermanos y hermanas de todo el mundo:",
-        "Reciban saludos cordiales en el nombre de nuestro Señor Jesucristo, quien aceptó morir por nosotros para ser herederos de la vida eterna.",
-        "La República de Ruanda se llama el país de mil colinas, ubicado en África central, pero siendo parte de los países de la comunidad de África Oriental. Este país limita con la República de Burundi en el sur, la República de Uganda en el norte, los Estados Unidos de Tanzania en el este y la República Democrática del Congo en el oeste. El país cubre 26, 338 kilómetros cuadrados con aproximadamente 12 millones de habitantes. El país está creciendo rápidamente en población.",
-        "El país tiene las mejores áreas de turismo atractivo como el Parque Nacional de los Volcanes en la parte norte donde se encuentran los gorilas de montaña, el Parque Nacional Akagera, el Parque Nacional del Bosque Nyungwe, etc. En términos de economía, muchos ciudadanos de Ruanda son agricultores con tierras muy pequeñas, donde tanto la agricultura tradicional como la moderna son los sistemas que se practican. Esta nación es un país sin litoral, por lo que la mayoría de los productos procedentes del extranjero son caros.",
-        "Desde el punto de vista de la educación, se está disminuyendo la cantidad de analfabetos debido a la introducción de la política de educación primaria y secundaria gratuita en las escuelas gubernamentales, además de la facilitación de préstamos otorgados a estudiantes que son elegibles para ingresar a la Universidad de Ruanda.",
-        "Ruanda, tiene cuatro idiomas oficiales como: kinyarwanda, inglés, francés y swahili, pero el kinyarwanda es la lengua materna de los ruandeses.",
-        "Según Wikipedia, la Enciclopedia Libre, el cristianismo es la religión más grande en Ruanda. El censo nacional más reciente de 2012 indica que: el 43.7% de la población de Ruanda es católica romana, el 37.7% es protestante, el 11.8% es adventista, el 2.0% es musulmán (principalmente sunita), el 2.5% afirma no tener afiliación religiosa y 0.7 % es Testigo de Jehová. También hay una pequeña población de bahá’ís, así como algunos que practican las creencias indígenas tradicionales.",
-        "La Sociedad Misionera Internacional de la Iglesia Adventista del Séptimo Día, Movimiento de Reforma entró en Ruanda desde principios de 1993 cuando misioneros de Tanzania como el pastor Parmenas Shirima, el pastor Bright Dickison Fue, el pastor Mwanjabeke, etc. hicieron una visita misionera en Ruanda y continuaron ayudando para el progreso del trabajo, aunque, a través de circunstancias desalentadoras. Pero este trabajo fue obstaculizado por el genocidio de 1994.",
-        "A finales de diciembre de 1996, el número de creyentes aumentó significativamente después de que más de 200 almas ruandeses, que recibieron el mensaje de reforma en los campos de refugiados en Tanzania, regresaran y se unieran a los pocos creyentes que estaban especialmente en la ciudad de Kigali y aumentaron las actividades misioneras, junto con el apoyo misionero de los pastores mencionados anteriormente y la Asociación General, que dio origen al Campo de Ruanda.",
-        "Ahora contamos con 40 iglesias locales, incluidas 7 sucursales. Nuestra membresía es de 760 con muchas otras almas interesadas. El Campo de Ruanda está dividido en 3 zonas misioneras: zona noroeste, zona centro-sur y zona este, con un número de seis pastores y un anciano ordenado.",
-        "En el momento del registro de la iglesia de acuerdo con las leyes del país, obtuvimos autorización para predicar el 23 de enero de 1998, el Certificado de Registro Temporal se obtuvo el 29 de octubre de 2002 y el 9 de septiembre de 2008, nuestro Campo obtuvo el Título Completo de Registro como Iglesia organizada en Ruanda. Pero hoy en día estamos en proceso de actualizar el registro de nuestra iglesia de acuerdo con la nueva ley con respecto a las organizaciones basadas en la fe en Ruanda, aunque, al no tener ninguna presentación de desarrollo urbanístico, aumenta la rigidez a nuestra solicitud.",
-        "Con el fin de mejorar la obra de Dios en las áreas de este país donde el mensaje de reforma aún no ha llegado, tenemos un plan para que el Campo de Ruanda se convierta en una Unión en el futuro a pesar de que existen obstáculos.",
-        "Nos encontramos en un gran problema financiero, porque además de los ingresos insuficientes de nuestros miembros, se ha estado invirtiendo para mejorar los edificios de nuestra iglesia que se han cerrado para cumplir con algunos estándares de modernización recientemente establecidos por el estado. En algunos edificios de la iglesia lo hemos alcanzado para permitir que se congreguen nuevamente, pero temporalmente porque aún no hemos completado la modernización, ya que otros edificios de la iglesia aún no han alcanzado ese nivel.",
-        "Tenemos, también, otros proyectos que también serán beneficiosos para la causa del Señor, como el Proyecto Escuela Murambi, que ha interesado a las autoridades que lo aceptaron y autorizaron. En MurambI tenemos una gran parcela en la ciudad de Kigali. Desafortunadamente, debido a limitaciones financieras, nuestro proyecto fue pospuesto, pero no totalmente abandonado. Habíamos planeado construir una escuela primaria y secundaria en esa parcela, pero solo logramos construir la cerca.",
-        "Además, tenemos otros proyectos para iniciar guarderías ya que la educación es la mayor preocupación del gobierno de Ruanda; por ejemplo, hemos comenzado a educar a los niños pequeños en la iglesia local Nyamata, una ciudad que está más cerca de la ciudad de Kigali y el trabajo está creciendo rápidamente, donde comenzamos con 20 niños, pero ahora estamos superando los 180, donde los edificios escolares también son es necesario, porque actualmente usamos el edificio de la iglesia para ayudar a los niños más pequeños. También en la parte oriental, tenemos otra gran parcela desocupada, en el área de Kigonge, donde proponemos tener una escuela o sanatorio.",
-        "El Espíritu de Profecía nos dice: “Hay escuelas que se establecerán en países extranjeros y en nuestro propio país. Debemos aprender de Dios cómo manejar estas escuelas. … Nuestras instituciones deben ser consideradas como instrumentos de Dios para el avance de su obra en la tierra. ... Necesitamos estar como una compañía unida que se verá cara a cara. Entonces veremos la salvación de Dios revelada a la derecha y a la izquierda. Si trabajamos en armonía, le damos a Dios la oportunidad de trabajar para nosotros” (Fundamentals of Christian Education, págs. 531, 532). La responsabilidad ahora está a nuestro alcance para que también podamos ayudar a la causa de Dios en Ruanda.",
-        "Pedimos amablemente a nuestros hermanos de todo el mundo que oren por nosotros y unan nuestros esfuerzos para apoyar financieramente la promoción del mensaje de reforma en Ruanda a través de estos proyectos. Que el Señor Jesucristo influya y beneficie a cada miembro y amigo del mensaje de reforma para reflexionar profundamente sobre estos planes. ¡Amén!"
-      ],
-      "autor": "Ngoboka Steven",
-      "puesto": "Presidente del Campo de Ruanda"
-    },
     {
       "type": "leccion",
       "numero": "14",
@@ -2820,6 +2791,35 @@
         "titulo": "",
         "contenido": []
       }
+    },
+    {
+      "type": "informe",
+      "id": "Ruanda",
+      "titulo": "Informe Misionero de Ruanda",
+      "fecha": "Sábado, 31 de octubre de 2020",
+      "entrega": "La Ofrenda Especial de Escuela Sabática será recogida el sábado, 7 de noviembre de 2020",
+      "contenido": [
+        "“Los hijos de Israel trajeron una ofrenda voluntaria al Señor, cada hombre y mujer, cuyo corazón los hizo dispuestos a traer para todo tipo de trabajo, que el Señor había mandado hacer de la mano de Moisés” Éxodo 35:29.",
+        "Queridos hermanos y hermanas de todo el mundo:",
+        "Reciban saludos cordiales en el nombre de nuestro Señor Jesucristo, quien aceptó morir por nosotros para ser herederos de la vida eterna.",
+        "La República de Ruanda se llama el país de mil colinas, ubicado en África central, pero siendo parte de los países de la comunidad de África Oriental. Este país limita con la República de Burundi en el sur, la República de Uganda en el norte, los Estados Unidos de Tanzania en el este y la República Democrática del Congo en el oeste. El país cubre 26, 338 kilómetros cuadrados con aproximadamente 12 millones de habitantes. El país está creciendo rápidamente en población.",
+        "El país tiene las mejores áreas de turismo atractivo como el Parque Nacional de los Volcanes en la parte norte donde se encuentran los gorilas de montaña, el Parque Nacional Akagera, el Parque Nacional del Bosque Nyungwe, etc. En términos de economía, muchos ciudadanos de Ruanda son agricultores con tierras muy pequeñas, donde tanto la agricultura tradicional como la moderna son los sistemas que se practican. Esta nación es un país sin litoral, por lo que la mayoría de los productos procedentes del extranjero son caros.",
+        "Desde el punto de vista de la educación, se está disminuyendo la cantidad de analfabetos debido a la introducción de la política de educación primaria y secundaria gratuita en las escuelas gubernamentales, además de la facilitación de préstamos otorgados a estudiantes que son elegibles para ingresar a la Universidad de Ruanda.",
+        "Ruanda, tiene cuatro idiomas oficiales como: kinyarwanda, inglés, francés y swahili, pero el kinyarwanda es la lengua materna de los ruandeses.",
+        "Según Wikipedia, la Enciclopedia Libre, el cristianismo es la religión más grande en Ruanda. El censo nacional más reciente de 2012 indica que: el 43.7% de la población de Ruanda es católica romana, el 37.7% es protestante, el 11.8% es adventista, el 2.0% es musulmán (principalmente sunita), el 2.5% afirma no tener afiliación religiosa y 0.7 % es Testigo de Jehová. También hay una pequeña población de bahá’ís, así como algunos que practican las creencias indígenas tradicionales.",
+        "La Sociedad Misionera Internacional de la Iglesia Adventista del Séptimo Día, Movimiento de Reforma entró en Ruanda desde principios de 1993 cuando misioneros de Tanzania como el pastor Parmenas Shirima, el pastor Bright Dickison Fue, el pastor Mwanjabeke, etc. hicieron una visita misionera en Ruanda y continuaron ayudando para el progreso del trabajo, aunque, a través de circunstancias desalentadoras. Pero este trabajo fue obstaculizado por el genocidio de 1994.",
+        "A finales de diciembre de 1996, el número de creyentes aumentó significativamente después de que más de 200 almas ruandeses, que recibieron el mensaje de reforma en los campos de refugiados en Tanzania, regresaran y se unieran a los pocos creyentes que estaban especialmente en la ciudad de Kigali y aumentaron las actividades misioneras, junto con el apoyo misionero de los pastores mencionados anteriormente y la Asociación General, que dio origen al Campo de Ruanda.",
+        "Ahora contamos con 40 iglesias locales, incluidas 7 sucursales. Nuestra membresía es de 760 con muchas otras almas interesadas. El Campo de Ruanda está dividido en 3 zonas misioneras: zona noroeste, zona centro-sur y zona este, con un número de seis pastores y un anciano ordenado.",
+        "En el momento del registro de la iglesia de acuerdo con las leyes del país, obtuvimos autorización para predicar el 23 de enero de 1998, el Certificado de Registro Temporal se obtuvo el 29 de octubre de 2002 y el 9 de septiembre de 2008, nuestro Campo obtuvo el Título Completo de Registro como Iglesia organizada en Ruanda. Pero hoy en día estamos en proceso de actualizar el registro de nuestra iglesia de acuerdo con la nueva ley con respecto a las organizaciones basadas en la fe en Ruanda, aunque, al no tener ninguna presentación de desarrollo urbanístico, aumenta la rigidez a nuestra solicitud.",
+        "Con el fin de mejorar la obra de Dios en las áreas de este país donde el mensaje de reforma aún no ha llegado, tenemos un plan para que el Campo de Ruanda se convierta en una Unión en el futuro a pesar de que existen obstáculos.",
+        "Nos encontramos en un gran problema financiero, porque además de los ingresos insuficientes de nuestros miembros, se ha estado invirtiendo para mejorar los edificios de nuestra iglesia que se han cerrado para cumplir con algunos estándares de modernización recientemente establecidos por el estado. En algunos edificios de la iglesia lo hemos alcanzado para permitir que se congreguen nuevamente, pero temporalmente porque aún no hemos completado la modernización, ya que otros edificios de la iglesia aún no han alcanzado ese nivel.",
+        "Tenemos, también, otros proyectos que también serán beneficiosos para la causa del Señor, como el Proyecto Escuela Murambi, que ha interesado a las autoridades que lo aceptaron y autorizaron. En MurambI tenemos una gran parcela en la ciudad de Kigali. Desafortunadamente, debido a limitaciones financieras, nuestro proyecto fue pospuesto, pero no totalmente abandonado. Habíamos planeado construir una escuela primaria y secundaria en esa parcela, pero solo logramos construir la cerca.",
+        "Además, tenemos otros proyectos para iniciar guarderías ya que la educación es la mayor preocupación del gobierno de Ruanda; por ejemplo, hemos comenzado a educar a los niños pequeños en la iglesia local Nyamata, una ciudad que está más cerca de la ciudad de Kigali y el trabajo está creciendo rápidamente, donde comenzamos con 20 niños, pero ahora estamos superando los 180, donde los edificios escolares también son es necesario, porque actualmente usamos el edificio de la iglesia para ayudar a los niños más pequeños. También en la parte oriental, tenemos otra gran parcela desocupada, en el área de Kigonge, donde proponemos tener una escuela o sanatorio.",
+        "El Espíritu de Profecía nos dice: “Hay escuelas que se establecerán en países extranjeros y en nuestro propio país. Debemos aprender de Dios cómo manejar estas escuelas. … Nuestras instituciones deben ser consideradas como instrumentos de Dios para el avance de su obra en la tierra. ... Necesitamos estar como una compañía unida que se verá cara a cara. Entonces veremos la salvación de Dios revelada a la derecha y a la izquierda. Si trabajamos en armonía, le damos a Dios la oportunidad de trabajar para nosotros” (Fundamentals of Christian Education, págs. 531, 532). La responsabilidad ahora está a nuestro alcance para que también podamos ayudar a la causa de Dios en Ruanda.",
+        "Pedimos amablemente a nuestros hermanos de todo el mundo que oren por nosotros y unan nuestros esfuerzos para apoyar financieramente la promoción del mensaje de reforma en Ruanda a través de estos proyectos. Que el Señor Jesucristo influya y beneficie a cada miembro y amigo del mensaje de reforma para reflexionar profundamente sobre estos planes. ¡Amén!"
+      ],
+      "autor": "Ngoboka Steven",
+      "puesto": "Presidente del Campo de Ruanda"
     },
     {
       "type": "leccion",
@@ -4022,8 +4022,8 @@
     {
       "type": "informe",
       "id": "DESASTRES",
-      "titulo": "INFORME MISIONERO PARA EL FONDO DE GESTIÓN DE DESASTRES",
-      "fecha": "sábado, 26 de diciembre de 2020",
+      "titulo": "Informe Misionero para el fondo Gestión de Desastres",
+      "fecha": "Sábado, 26 de diciembre de 2020",
       "entrega": "La Ofrenda Especial de Escuela Sabática será recogida el sábado, 2 de enero de 2021",
       "contenido": [
         "“Por lo tanto, cuando tengamos oportunidad, hagamos el bien a todos, especialmente a la familia de la fe” Gálatas 6:10.",
