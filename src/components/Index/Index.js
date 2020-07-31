@@ -14,6 +14,7 @@ import styles from './Index.module.css'
 
 const Index = () => {
 
+
   const data = useContext( AppContext );
 
   return (
@@ -53,7 +54,7 @@ const Index = () => {
 
                 <div className="shadow-md rounded-md bg-white max-w-sm justify-center items-center mx-auto">
                   <div className="w-full rounded-t-md" >
-                    <div className="pt-6 m-4 w-16 h-16 text-center bg-blue-300 rounded-full text-white float-right">
+                    <div className="pt-6 m-4 w-16 h-16 text-center bg-blue-400 rounded-full text-white float-right">
                       <span className="text-xs tracking-wide font-bold uppercase block font-sans">Informe</span>
                     </div>
                     <div className="py-4 px-4 bg-white rounded-b-md">
