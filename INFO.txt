@@ -1,0 +1,42 @@
+Crear el proyecto 
+Entrar a CMD y estar en la ruta de la carpeta c:app/
+
+cordova create carpera-a-crear id.proyecto nombre_proyecto
+cordova create conferencias conferencias.smi conferencias
+cordova create lecciones lecciones.smi lecciones
+cordova create imagina-radio imagina.radio imagina_radio
+
+
+Añadir la plataforma para android ios o windows phone
+Entrar a la ruta de la app creada
+cordova platforms add android
+
+Poner el contenido en carpeta www
+
+Crear el apk DEBUG
+cordova build android
+
+
+Crear el apk release (versionCode ya configurado en el config.xml)
+cordova build android --release
+
+
+o incluir version en el comando
+cordova build --release android -- --versionCode=201
+
+
+Crear firma y clave
+keytool -genkey -v -keystore NOMBRE-key.keystore -alias NOMBRE -keyalg RSA -keysize 2048 -validity 10000
+
+
+Entrar a la carpeta del release: cd
+C:\app\lecciones\platforms\android\app\build\outputs\apk\release
+
+
+Firmar el apk
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore conferencias-key.keystore app-release-unsigned.apk conferencias
+
+pass 123456
+
+Optimizar el apk
+zipalign -v 4 app-release-unsigned.apk nombre-final-del-apk.apk 

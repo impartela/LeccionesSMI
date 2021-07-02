@@ -4,6 +4,12 @@ import Texto from '../Texto/Texto'
 import Nota from '../Parrafo/Parrafo'
 
 const Pregunta = ({ preguntas }) => {
+
+ /*  console.log( preguntas ) */
+
+
+  /* preguntas.map( ({ subtitulo, pregunta, textos, notas }) => console.log( subtitulo, pregunta, textos, notas  )) */
+
   return (
       <div>
         {

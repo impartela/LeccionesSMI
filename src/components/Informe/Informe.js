@@ -18,8 +18,7 @@ const Informe = () => {
 
   const target = data.filter( post => post.id === id );
 
-  const { titulo, fecha, entrega, contenido, autor, puesto } = target[0];
-
+  const { titulo, fecha, entrega, contenido, autor, puesto } = target[0]; 
   return (
     <>
       <Header />
