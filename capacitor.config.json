@@ -1,0 +1,6 @@
+{
+  "appId": "lecciones.smi",
+  "appName": "leccion-smi",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
