@@ -46,7 +46,7 @@ const Index = () => {
           )
 
         } else if ( type === 'informe') {
-
+        
           return (
             <li className={styles.leccion} key={ id }>
 

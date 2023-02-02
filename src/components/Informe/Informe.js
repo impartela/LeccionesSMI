@@ -16,6 +16,7 @@ const Informe = () => {
   const data = useContext( AppContext );
   const { id } = useParams();
 
+
   const target = data.filter( post => post.id === id );
 
   const { titulo, fecha, entrega, contenido, autor, puesto } = target[0]; 
